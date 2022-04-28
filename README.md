@@ -9,9 +9,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 In this project, I used the credit card credit dataset from LendingClub, a peer-to-peer lending services company. I oversampled the data using the RandomOverSampler and SMOTE algorithms, and undersampled the data using the ClusterCentroids algorithm. I used a combinatorial approach of oversampling and undersampling using the SMOTEENN algorithm. I compared two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. 
 
 ## Credit Risk Results
-Below are the results after I evaluated the performance of BalancedRandomForestClassifer and EasyensembleClassifier:
+Below are the results after my evaluation:
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
 ### Naive Random Oversampling
 The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
 
