@@ -12,19 +12,35 @@ In this project, I used the credit card credit dataset from LendingClub, a peer-
 Below are the results after I evaluated the performance of BalancedRandomForestClassifer and EasyensembleClassifier:
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models
-- XXX
-- XXX
-- XXX
-- XXX
-- XXX
-- XXX
+### Naive Random Oversampling
+The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
 
-  ![1]() 
-  ![2]()
-  ![3]()
-  ![4]()
-  ![5]()
-  ![6]()
+![1]()
+
+### SMOTE Oversampling
+The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+
+![2]()
+
+### Undersampling
+The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+
+![3]()
+
+### Combination (Over and Under) Sampling
+The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+
+![4]()
+
+### Balanced Random Forest Classifier
+The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+
+![5]()
+
+### Easy Ensemble AdaBoost Classifier
+The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+
+![6]()
 
 ## Credit Risk Summary
 Summary and a recommendation on which model to use, or there is no recommendation with a justification
