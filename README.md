@@ -42,4 +42,4 @@ The balanced accuracy score is 91.79%, the precision score is 99% and the recall
 ![6](https://github.com/jag28731/Credit-Risk-Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
 ## Credit Risk Summary
-Summary and a recommendation on which model to use, or there is no recommendation with a justification
+I used the above models to determine which loans are the highest risk. In the first four models, I used Naive Random Oversampling, SMOTE Oversampling, Undersampling, and a combination of both. The last two models I used Balanced Random Forest and Easy Ensemble AdaBoost classifiers. In the first four models, the accuracy score was not as high as the last two models and in the last two models, the recall score was higher than the first four models. The precision score was the same for all the models. I would recommend the ensemble classifiers because you want to have an overall good balance of scores between the accuracy, precision, and recall scores. The two ensemble classifiers have great accuracy, precision, and recall scores. 
