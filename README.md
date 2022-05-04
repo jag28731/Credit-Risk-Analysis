@@ -12,34 +12,34 @@ In this project, I used the credit card credit dataset from LendingClub, a peer-
 Below are the results after my evaluation:
 
 ### Naive Random Oversampling
-The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+The balanced accuracy score is 66.14%, the precision score is 99% and the recall score is 60%.
 
-![1]()
+![1](https://github.com/jag28731/Credit-Risk-Analysis/blob/main/Resources/Naive%20Random%20Oversampling.PNG)
 
 ### SMOTE Oversampling
-The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+The balanced accuracy score is 65.81%, the precision score is 99% and the recall score is 69%.
 
-![2]()
+![2](https://github.com/jag28731/Credit-Risk-Analysis/blob/main/Resources/SMOTE%20Oversampling.PNG)
 
 ### Undersampling
-The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+The balanced accuracy score is 54.43%, the precision score is 99% and the recall score is 40%.
 
-![3]()
+![3](https://github.com/jag28731/Credit-Risk-Analysis/blob/main/Resources/Undersampling.PNG)
 
 ### Combination (Over and Under) Sampling
-The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+The balanced accuracy score is 64.49%, the precision score is 99% and the recall score is 57%.
 
-![4]()
+![4](https://github.com/jag28731/Credit-Risk-Analysis/blob/main/Resources/Combination%20Sampling.PNG)
 
 ### Balanced Random Forest Classifier
-The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+The balanced accuracy score is 77.43%, the precision score is 99% and the recall score is 88%.
 
-![5]()
+![5](https://github.com/jag28731/Credit-Risk-Analysis/blob/main/Resources/Balanced%20Random%20Forest%20Classifier.PNG)
 
 ### Easy Ensemble AdaBoost Classifier
-The balanced accuracy score is XX%, the precision score is XX% and the recall score is XX%.
+The balanced accuracy score is 91.79%, the precision score is 99% and the recall score is 94%.
 
-![6]()
+![6](https://github.com/jag28731/Credit-Risk-Analysis/blob/main/Resources/Easy%20Ensemble%20AdaBoost%20Classifier.PNG)
 
 ## Credit Risk Summary
 Summary and a recommendation on which model to use, or there is no recommendation with a justification
